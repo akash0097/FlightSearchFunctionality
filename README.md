@@ -18,7 +18,7 @@ In order to utilise this project you need to have the following installed locall
   
 How to import the project : 
    Copy the URL from GitHub and select in Eclipse from the menu.
-   URL: https://github.com/akash0097/FlightSearchFunctionality
+   URL: https://github.com/akash0097/FlightSearchFunctionality/tree/master
    
    File → Import → Git → Projects from Git
    
